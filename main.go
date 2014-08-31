@@ -9,7 +9,7 @@ import (
   "os"
   "io/ioutil"
   "encoding/json"
-  "github.com/gillesdemey/go-speech/utils"
+  "github.com/aperturescience/go-speech/utils"
 )
 
 func main() {
